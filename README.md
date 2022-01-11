@@ -1,5 +1,7 @@
 # Getting Started with Redux_Toolkit_Movie_App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [APP LINK](https://rtk-movie-listview.netlify.app/).
 
 ## Available Scripts
+
+SCSS used
